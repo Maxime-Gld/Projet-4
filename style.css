@@ -1038,4 +1038,12 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    /* taille image */
+
+    .img-responsive {
+        width: 390px;
+        height: 390px;
+        object-fit: cover;
+    }
 }
