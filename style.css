@@ -818,11 +818,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
@@ -1041,9 +1041,5 @@ h4 {
         width: 390px;
         height: 390px;
         object-fit: cover;
-    }
-
-    .bg-presentation {
-        background-image: none;
     }
 }
