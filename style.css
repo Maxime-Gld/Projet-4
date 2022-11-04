@@ -1042,4 +1042,8 @@ h4 {
         height: 390px;
         object-fit: cover;
     }
+
+    .bg-presentation {
+        background-image: none;
+    }
 }
