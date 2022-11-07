@@ -1044,3 +1044,13 @@ h4 {
         margin: auto;
     }
 }
+
+.navbar-brand img {
+    height: 40px;
+    width: auto;
+}
+
+.image-resize-mode { 
+    height: 100px;
+    width: 100px;
+}
