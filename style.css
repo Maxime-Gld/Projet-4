@@ -1038,8 +1038,9 @@ h4 {
     /* taille image */
 
     .img-responsive {
-        width: 390px;
-        height: 390px;
+        width: 320px;
+        height: 320px;
         object-fit: cover;
+        margin: auto;
     }
 }
